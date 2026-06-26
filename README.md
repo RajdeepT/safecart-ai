@@ -20,15 +20,26 @@ The project combines sentence embeddings with structured product features and a 
 
 ## Dataset
 
-The project uses an Amazon India product listing dataset containing:
+## Dataset
 
-- Product Title
-- Product Description
-- Category
-- Price
-- MSRP
-- Product Image
-- Image URL
+The original datasets are not included in this repository due to GitHub file size limitations.
+
+All project files, datasets, trained models, and supporting resources are available here:
+
+**Google Drive:**
+https://drive.google.com/drive/folders/1-ojOO4x8TmukiFD0IhmquwGYktPTjUso
+
+Contents include:
+
+* Amazon India Product Listing Dataset
+* Processed Feature Dataset
+* Trained PyTorch Model
+* PCA Transformer
+* Standard Scaler
+* Supporting notebooks and resources
+
+After downloading, place the files in the project root directory before running the notebooks.
+
 
 Additional engineered features:
 
